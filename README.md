@@ -24,9 +24,10 @@ Este proyecto es una Pokedex creada con n8n. El flujo de trabajo permite a los u
    - Configura las credenciales necesarias en los nodos correspondientes.
 
 3. **Demostración**:
-   Ingreso del nombre del pokemon por parte del usuario:  
+   Capturas de la pokedex en funcionamiento:  
    ![Ingreso del nombre del pokemon por parte del usuario](capturas_de_pantalla/entrada_charmeleon.JPG)
 
-   Pagina HTML generada:
+   
    ![Documento HTML generada](capturas_de_pantalla/salida_1.JPG)
+   
    ![Documento HTML generada](capturas_de_pantalla/salida_2.JPG)
