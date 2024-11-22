@@ -1,6 +1,5 @@
 # Pokedex n8n
-Proyecto de Pokedex en n8n: Generación de imágenes y descripciones de Pokémon con IA y visualización en HTML integrando APIs y servicios en la nube
-# Pokedex n8n
+Proyecto de Pokedex en n8n: Generación de imágenes y descripciones de Pokémon con IA y visualización en HTML integrando APIs y servicios en la nube.
 
 Este proyecto es una Pokedex creada con n8n. El flujo de trabajo permite a los usuarios ingresar el nombre de un Pokémon y genera:
 
